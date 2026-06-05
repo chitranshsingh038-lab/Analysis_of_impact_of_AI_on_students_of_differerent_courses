@@ -116,10 +116,10 @@ Primary Keys
 
  ----------------------------------------------- Future Improvements -------------------------------------------------------
 
-* Build an interactive Power BI dashboard.
-* Perform statistical testing on identified relationships.
-* Add advanced SQL concepts such as Window Functions and CTEs.
-* Conduct predictive analysis using Python and Machine Learning.
+Build an interactive Power BI dashboard.
+Perform statistical testing on identified relationships.
+Add advanced SQL concepts such as Window Functions and CTEs.
+Conduct predictive analysis using Python and Machine Learning.
 
 ------------------------------------------------- Conclusion --------------------------------------------------------------
 
