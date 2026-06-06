@@ -40,35 +40,35 @@ Assigned student ID as Primary Key
 
 1. Which academic disciplines use AI most frequently for summarizing and reading?
 
-Analyzed the number of students using AI for summarization across different courses.
+  Analyzed the number of students using AI for         summarization across different courses.
 
 2. Does a paid AI subscription reduce exam anxiety?
 
-Compared average anxiety levels between subscribed and non-subscribed students.
+  Compared average anxiety levels between subscribed   and non-subscribed students.
 
 3. Does a paid subscription increase AI dependency?
 
-Evaluated AI dependency levels among subscribed and non-subscribed students.
+  Evaluated AI dependency levels among subscribed      and non-subscribed students.
 
 4. Does a paid subscription improve academic performance?
 
-Compared post-semester GPA between subscribed and non-subscribed students.
+  Compared post-semester GPA between subscribed and    non-subscribed students.
 
 5. Which AI use cases are associated with the highest GPA outcomes?
 
-Compared average post-semester GPA across various AI use cases.
+  Compared average post-semester GPA across various    AI use cases.
 
 6. Does AI dependency affect skill retention?
 
-Analyzed skill retention scores across different levels of perceived AI dependency.
+  Analyzed skill retention scores across different     levels of perceived AI dependency.
 
 7. Which study years show the highest AI tool adoption?
 
-Measured AI tool diversity across courses and academic years.
+  Measured AI tool diversity across courses and        academic years.
 
 8. Does burnout risk increase with AI dependency?
 
-Compared average AI dependency levels across burnout risk categories.
+  Compared average AI dependency levels across         burnout risk categories.
 
 -------------------------------------------- Key Findings -----------------------------------------------------------------
 
